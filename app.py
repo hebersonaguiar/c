@@ -11,7 +11,7 @@ app.secret_key = "7pI.X7<w-qqE&a"
 
 @app.route("/")
 def main():
-    return "Welcome Bahia!"
+    return "Boa noite FIAP! GitOps X ArgoCD"
 
 @app.route("/health") 
 def health():
